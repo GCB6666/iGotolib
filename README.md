@@ -27,7 +27,7 @@
 
 ## 教程
 
-[金山文档 | WPS云文档 手把手教程](https://kdocs.cn/l/cs0WC8brESTz)
+[WPS云文档 手把手教程](https://kdocs.cn/l/cs0WC8brESTz)
 
 ## 下载链接
 
