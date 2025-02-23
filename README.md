@@ -36,7 +36,7 @@
 [WPS云文档 手把手教程](https://kdocs.cn/l/cs0WC8brESTz)
 
 # 下载链接
-- 可以通过点击code -Download ZIP，解压后找到iGotolib文件夹获取
+- 可以通过点击Code -Download ZIP，解压后找到iGotolib文件夹获取
 ## GitHub更新不一定及时，推荐下面的下载方法
 - **百度网盘**  
   [https://pan.baidu.com/s/14-kKMT5BaNfhX9n27YLZXA?pwd=x9dx](https://pan.baidu.com/s/14-kKMT5BaNfhX9n27YLZXA?pwd=x9dx)
