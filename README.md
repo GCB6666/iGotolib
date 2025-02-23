@@ -4,33 +4,39 @@
 
 目前有Windows版与安卓版，强烈推荐使用安卓版，功能更多、更方便
 
-<img src="./readme_image/android1.png" alt="安卓版" width="230"/>  <img src="./readme_image/android2.png" alt="安卓版图2" width="230"/> 
-<img src="./readme_image/windows.png" alt="电脑版" width="500"/> 
+- 安卓版
+  
+<img src="./readme_image/android1.png" alt="安卓版" width="150"/>  <img src="./readme_image/android2.png" alt="安卓版图2" width="150"/> <img src="./readme_image/android3.png" alt="安卓版图3" width="150"/> 
+- 电脑版
 
-## 功能介绍
+<img src="./readme_image/windows.png" alt="电脑版" width="300"/>
 
-### 今日预约
+
+
+# 功能介绍
+
+## 今日预约
 - 自动蹲守，闲时捡漏
 
-### 明日预约
+## 明日预约
 - 自动排队，卡点预约
 
-### 手动选座
+## 手动选座
 - 纯手动选座
-- 
-### 其他功能
+## 其他功能
 - 支持指定座位，支持座位记忆功能
 - 支持每日自动获取积分
 - 支持软件内退座
 - 支持Cookie自动维持有效
 - 支持自定义抢座参数，如刷新频率、排队请求频率等
 
-## 教程
+# 教程
 
-[金山文档 | WPS云文档 手把手教程](https://kdocs.cn/l/cs0WC8brESTz)
+[WPS云文档 手把手教程](https://kdocs.cn/l/cs0WC8brESTz)
 
-## 下载链接
-
+# 下载链接
+- 可以通过点击code -Download ZIP，解压后找到iGotolib文件夹获取
+## GitHub更新不一定及时，推荐下面的下载方法
 - **百度网盘**  
   [https://pan.baidu.com/s/14-kKMT5BaNfhX9n27YLZXA?pwd=x9dx](https://pan.baidu.com/s/14-kKMT5BaNfhX9n27YLZXA?pwd=x9dx)
 
