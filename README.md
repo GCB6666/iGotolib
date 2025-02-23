@@ -9,7 +9,7 @@
 <img src="./readme_image/android1.png" alt="安卓版" width="150"/>  <img src="./readme_image/android2.png" alt="安卓版图2" width="150"/> <img src="./readme_image/android3.png" alt="安卓版图3" width="150"/> 
 - 电脑版
 
-<img src="./readme_image/windows.png" alt="电脑版" width="300"/>
+
 
 
 
