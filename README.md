@@ -5,7 +5,10 @@
 目前有Windows版与安卓版，强烈推荐使用安卓版，功能更多、更方便
 
 <img src="./readme_image/android1.png" alt="安卓版" width="230"/>  <img src="./readme_image/android2.png" alt="安卓版图2" width="230"/> <img src="./readme_image/android3.png" alt="安卓版图3" width="230"/> 
-<img src="./readme_image/windows.png" alt="电脑版" width="500"/> 
+<div style="text-align:center">
+  <img src="./readme_image/windows.png" alt="电脑版" width="500"/>
+</div>
+
 
 ## 功能介绍
 
